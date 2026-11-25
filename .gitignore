@@ -1,0 +1,17 @@
+node_modules/
+.expo/
+.expo-shared/
+dist/
+coverage/
+*.tsbuildinfo
+npm-debug.log*
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.jks
+*.keystore
+*.p8
+*.p12
+*.mobileprovision
